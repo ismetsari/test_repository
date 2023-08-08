@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "ivory-lab.jenkinsfile-support"
+        "ivory-lab.jenkinsfile-support",
+        "secanis.jenkinsfile-support"
     ]
 }
